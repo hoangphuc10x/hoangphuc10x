@@ -1,4 +1,3 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/471ff4c9-ac69-4aa8-8759-e4bca7f63aef" />
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ngthanhhoangphuc109) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phuc-nguyen-thanh-hoang/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngthanhhoangphuc@gmail.com) 
 
